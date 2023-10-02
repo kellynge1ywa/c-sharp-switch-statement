@@ -1,0 +1,14 @@
+D:\learning\C#\visual studio\switch_statement\bin\Debug\net6.0\switch_statement.exe
+D:\learning\C#\visual studio\switch_statement\bin\Debug\net6.0\switch_statement.deps.json
+D:\learning\C#\visual studio\switch_statement\bin\Debug\net6.0\switch_statement.runtimeconfig.json
+D:\learning\C#\visual studio\switch_statement\bin\Debug\net6.0\switch_statement.dll
+D:\learning\C#\visual studio\switch_statement\bin\Debug\net6.0\switch_statement.pdb
+D:\learning\C#\visual studio\switch_statement\obj\Debug\net6.0\switch_statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#\visual studio\switch_statement\obj\Debug\net6.0\switch_statement.AssemblyInfoInputs.cache
+D:\learning\C#\visual studio\switch_statement\obj\Debug\net6.0\switch_statement.AssemblyInfo.cs
+D:\learning\C#\visual studio\switch_statement\obj\Debug\net6.0\switch_statement.csproj.CoreCompileInputs.cache
+D:\learning\C#\visual studio\switch_statement\obj\Debug\net6.0\switch_statement.dll
+D:\learning\C#\visual studio\switch_statement\obj\Debug\net6.0\refint\switch_statement.dll
+D:\learning\C#\visual studio\switch_statement\obj\Debug\net6.0\switch_statement.pdb
+D:\learning\C#\visual studio\switch_statement\obj\Debug\net6.0\switch_statement.genruntimeconfig.cache
+D:\learning\C#\visual studio\switch_statement\obj\Debug\net6.0\ref\switch_statement.dll
